@@ -1,0 +1,5 @@
+Em dias mais quentes, as vendas de sorvete aumentam significativamente.
+Temperaturas acima de 30°C costumam gerar picos de venda.
+A previsão de demanda ajuda a evitar desperdício e falta de produto.
+Usar Machine Learning pode melhorar o planejamento de produção.
+A sorveteria Gelato Mágico está localizada em uma cidade litorânea.
