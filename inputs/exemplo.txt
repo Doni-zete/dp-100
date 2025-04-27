@@ -1,0 +1,3 @@
+A inteligência artificial é uma área da ciência da computação que busca criar sistemas capazes de simular a inteligência humana.
+Redes neurais são um dos principais componentes da IA moderna.
+O uso de IA em análise de textos permite automatizar tarefas repetitivas e extrair informações importantes de documentos.
